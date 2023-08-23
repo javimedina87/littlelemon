@@ -1,2 +1,2 @@
-# littlelemon
+# Little Lemon Project
 Course project
